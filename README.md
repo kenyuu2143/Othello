@@ -1,1 +1,1 @@
-# Othello
+# slot
